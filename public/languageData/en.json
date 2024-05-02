@@ -1,0 +1,62 @@
+{
+  "translation": {
+    "menu": {
+      "logoAni": "/logoAni.gif",
+      "logo": "/logo.svg",
+      "home": "Home",
+      "job_listing": "Job Listing",
+      "about": "About Japan",
+      "contact": "Contact"
+    },
+    "main_Content": {
+      "title": "WE'RE HIRING",
+      "search_placeholder": "Search for job titles, companies, or locations",
+      "no_jobs_found": "No jobs found for"
+    },
+    "about": {
+      "title": "About Japan",
+      "introduction_title": "Introduction to Japan",
+      "introduction_content": "Japan, a country rich in tradition and innovation, offers a unique blend of ancient culture and modern living. From bustling metropolises to serene countryside, Japan provides a diverse landscape for work and exploration.",
+      "experience_content": "Experience the beauty of cherry blossoms in spring, the tranquility of Japanese gardens, and the excitement of traditional festivals. Discover the Japanese work ethic, renowned for its dedication and precision, and find your place in this dynamic society.",
+      "cherry_blossom_content": "The significance of the cherry blossom tree in Japanese culture goes back hundreds of years. In their country, the cherry blossom represents the fragility and the beauty of life. It's a reminder that life is almost overwhelmingly beautiful but that it is also tragically short.",
+      "explore_more_button": "Explore More About Japan",
+      "about_img": "/japan1.jpg"
+    },
+    "about_japan": {
+      "about_img": "/japan2.jpg",
+      "about_title_1": "About Japan",
+      "about_subtitle_11": "Japan, known as the Land of the Rising Sun, is a country rich in culture, tradition, and innovation. From its ancient temples and serene gardens to its bustling cities and cutting-edge technology, Japan offers a unique blend of old-world charm and modernity.",
+      "about_subtitle_12": "Living and working in Japan can be a transformative experience, with opportunities to immerse oneself in a culture that values harmony, discipline, and excellence. Whether you're drawn to the vibrant energy of Tokyo, the natural beauty of Kyoto, or the tranquil countryside, Japan has something to offer for everyone.",
+      "about_subtitle_13": "When you look at Japanese traditional architecture, you have to look at Japanase culture and its relationship with  nature. You can actually live in a harmonious, close contact with nature - this very unique to Japan.",
+      "about_title_2": "Visa Requirements",
+      "about_subtitle_21": "Before planning your journey to Japan, it's essential to understand the visa requirements based on your intended purpose of visit, whether it's for work, study, or tourism. Japan offers various visa categories, each with its own set of requirements and eligibility criteria. It's advisable to consult the official website of the Embassy of Japan in your country for up-to-date information on visa applications and procedures.",
+      "about_title_3": "Cultural Nuances",
+      "about_subtitle_31": "Japan is a society steeped in tradition and etiquette, where respect for others and social harmony are deeply ingrained values. From bowing as a form of greeting to removing shoes before entering homes or certain establishments, there are many cultural nuances to be mindful of when interacting with Japanese people. Learning about Japanese customs, rituals, and social norms can enhance your experience and facilitate meaningful connections with locals."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "office_title": "Our Office",
+      "address": "Address: 399-1159, Engyo,  Fujisawa-shi, Kanagawa, Japan",
+      "phone": "Phone: +81 75 630 5902",
+      "email": "Email: info@workinjapan.com",
+      "message_title": "Send Us a Message",
+      "message_name": "Name",
+      "message_email": "Email",
+      "message": "Message",
+      "message_send": "Send Message"
+    },
+    "other_data": {
+      "job_title": "Job Title",
+      "company_name": "Company Name",
+      "location": "Location",
+      "full_job_description": "Full Job Description:",
+      "role_responsibilities": "Role Responsibilities:",
+      "qualifications": "Qualifications:",
+      "benefits": "Benefits:",
+      "job_type": "Job Type:",
+      "pay": "Pay:",
+      "schedule": "Schedule:",
+      "no_job_found": "No jobs found matching the selected criteria."
+    }
+  }
+}
